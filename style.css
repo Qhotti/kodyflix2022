@@ -141,14 +141,14 @@ body::-webkit-scrollbar{
     margin-top: 1em;
 }
 
-@media only screen and (max-width: 540px) { .btn { 
+@media only screen and (max-width: 670px) { .btn { 
     margin: 0;
    
 
 }
 }
 
-@media only screen and (max-width: 540px) { .logo, .flexbox-item, .request  { 
+@media only screen and (max-width: 670px) { .logo, .flexbox-item, .request  { 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -156,7 +156,7 @@ body::-webkit-scrollbar{
 
 }
 }
-@media only screen and (max-width: 540px) { .searchbar  { 
+@media only screen and (max-width: 670px) { .searchbar  { 
     display: flex;
     justify-content: center;
     align-items: center;
