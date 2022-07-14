@@ -133,7 +133,7 @@ body::-webkit-scrollbar{
     flex-direction: column;
     margin-top: 1em;
     }
-#comment{
+#problem{
     color: black;
     display: flex;
     justify-content: space-between;
